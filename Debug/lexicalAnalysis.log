@@ -1,4 +1,0 @@
-﻿  lexicalAnalysis.cpp
-D:\Code\CCode\01\lexicalAnalysis\lexicalAnalysis\lexicalAnalysis.cpp(52,21): warning C4018: “<”: 有符号/无符号不匹配
-D:\Code\CCode\01\lexicalAnalysis\lexicalAnalysis\lexicalAnalysis.cpp(171,22): warning C4018: “<”: 有符号/无符号不匹配
-  lexicalAnalysis.vcxproj -> D:\Code\CCode\01\lexicalAnalysis\Debug\lexicalAnalysis.exe
